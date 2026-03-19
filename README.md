@@ -18,12 +18,9 @@
 - 🎸 Always creating something new
 
 </br>
-</br>
-</br>
-
 
 # Languages & Tools 👨‍💻 🛠:
-
+ 
 </br>
 
 ### 💻 Programming Languages
@@ -32,28 +29,35 @@
     <img src="https://skillicons.dev/icons?i=py,js,java,cpp,go" />
   </a>
 </p>
-
-### 🌐 Frontend Development
+ 
+### 🌐 Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,react" />
   </a>
 </p>
-
+ 
+### ⚙️ Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>
+ 
 ### 🗄️ Databases & Cloud Hosting
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,aws" />
   </a>
 </p>
-
+ 
 ### 🎨 Graphic Designing
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,illustrator,canva" />
   </a>
 </p>
-
+ 
 ### 🛠️ Software & Tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -62,9 +66,6 @@
 </p>
 
 </br>
-</br>
-</br>
-
 
 # Contact Me :
  
@@ -92,19 +93,3 @@ If you want to reach out — whether it's about tech, music, football, or just t
 </a>
  
 </p>
- 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
- 
- 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=juanjo380&show_icons=true&theme=radical"/>
-  </a>
-</p>
- 
