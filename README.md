@@ -1,67 +1,110 @@
-<div align="center">
-Hey, I'm Juanjo 👋
-Machine Learning · Web Development · Cybersecurity Enthusiast
-Mostrar imagen
-</div>
+# Hey there! I'm Juanjo 👋
+ 
+# About Me 💬 :
+ 
+### 👋 Hi! I'm Juanjo — 19 y/o, Colombia 🇨🇴
+### 🎓 Systems Engineering student at Universidad del Valle.
+### 💻 Passionate about software development, data science, cybersecurity and artificial intelligence.
+### 🚀 Currently strengthening my knowledge in development and data science.
+ 
+### 🌟 About me :
+- 🎓 Currently in my sixth semester of Systems Engineering
+- 🌱 I love learning
+ 
+### - Hobbies :
+- 🎵 Musician
+- 🌸 Perfume enthusiast
+- ⚽ Soccer
+- 🎸 Always creating something new
 
-👤 About Me
-yamlname:       Juanjo
-age:        19
-location:   Colombia 🇨🇴
-focus:      Machine Learning / AI · Web Development · Cybersecurity
-
-🤖 Passionate about Machine Learning & AI and how they reshape the world
-🌐 Building things for the web with a focus on clean and functional design
-🔐 Exploring the world of Cybersecurity — always learning, always vigilant
-🎵 Musician at heart — music is how I think and breathe
-🌸 Perfume connoisseur — yes, seriously
-⚽ Football is life
+</br>
+</br>
+</br>
 
 
-🛠️ Languages & Tools
-💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-</p>
-🌐 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-🗄️ Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black"/>
-</p>
-🎨 Graphic Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-</p>
-🛠️ Software & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+# Languages & Tools 👨‍💻 🛠:
+
+</br>
+
+### 💻 Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,go" />
+  </a>
 </p>
 
-📬 Contact Me
+### 🌐 Frontend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+  </a>
+</p>
 
-Feel free to reach out — whether it's about tech, music, football or just to say hi 🤝
+### 🗄️ Databases & Cloud Hosting
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,aws" />
+  </a>
+</p>
 
-<!-- Add your social links below as you share them -->
+### 🎨 Graphic Designing
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,illustrator,canva" />
+  </a>
+</p>
 
-<div align="center">
-"Build things that matter. Secure the ones that do."
-</div>
+### 🛠️ Software & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+  </a>
+</p>
+
+</br>
+</br>
+</br>
+
+
+# Contact Me :
+ 
+<p>
+</br>
+ 
+If you want to reach out — whether it's about tech, music, football, or just to talk, feel free to ping me 😉
+ 
+</br>
+ 
+<a href="https://www.linkedin.com/in/juan-jose-bolaños-serna-54bb6b362">
+  <img align="left" alt="LinkedIn" width="40" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:juanjosebose380@gmail.com">
+  <img align="left" alt="Gmail" width="40" src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/juanjo380">
+  <img align="left" alt="GitHub" width="40" src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.instagram.com/juanjo_bs380">
+  <img align="left" alt="Instagram" width="40" src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://discord.com/users/juanjo_bs380">
+  <img align="left" alt="Discord" width="40" src="https://skillicons.dev/icons?i=discord" />
+</a>
+ 
+</p>
+ 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+ 
+ 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=juanjo380&show_icons=true&theme=radical"/>
+  </a>
+</p>
+ 
