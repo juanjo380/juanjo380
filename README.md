@@ -54,14 +54,14 @@
 ### 🎨 Graphic Designing
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,illustrator,canva" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,illustrator" />
   </a>
 </p>
  
 ### 🛠️ Software & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,linux,bash" />
   </a>
 </p>
 
