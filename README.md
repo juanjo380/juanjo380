@@ -26,7 +26,7 @@
 ### 💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,go" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,go,scala" />
   </a>
 </p>
  
@@ -61,8 +61,13 @@
 ### 🛠️ Software & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,linux,bash,npm,LaTex" />
   </a>
+</p>
+
+### 🌍 CMS & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
 </br>
