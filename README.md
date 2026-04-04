@@ -26,7 +26,7 @@
 ### 💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,go,scala" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,go,scala,ruby" />
   </a>
 </p>
  
