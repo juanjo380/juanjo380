@@ -26,7 +26,7 @@
 ### 💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,go,scala,ruby" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,go,scala,ruby,cs" />
   </a>
 </p>
  
@@ -40,7 +40,7 @@
 ### ⚙️ Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet" />
   </a>
 </p>
  
