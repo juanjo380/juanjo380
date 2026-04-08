@@ -61,7 +61,7 @@
 ### 🛠️ Software & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,linux,bash,npm,latex" />
+    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,vs,linux,bash,npm,latex" />
   </a>
 </p>
 
